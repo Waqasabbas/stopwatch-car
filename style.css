@@ -145,3 +145,8 @@ body{
         transform: rotate(360deg);
     }
 }
+@media screen and (max-width: 980px){
+     .view{
+        top:257px;
+     }
+}
